@@ -1,13 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B23A48&height=220&section=header&text=Hi%20there!%20%F0%9F%91%8B&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=2800&pause=900&color=B23A48&center=true&vCenter=true&width=750&lines=I'm+Sameera+Shazmeen+%F0%9F%8D%92;AI%2FML+Enthusiast+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Deep+Learning+Explorer+%F0%9F%A7%A0;RAG+%26+Generative+AI+Enthusiast+%F0%9F%94%8E"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B23A48&height=220&section=header&text=Sameera%20Shazmeen&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
 
 <br>
 
-🎓 **CSE (AI & ML) Student**
-🤖 **AI/ML Enthusiast** · 🐍 **Python** · 🧠 **Deep Learning** · 🔎 **RAG**
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=23&duration=3200&pause=1000&color=B23A48&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast;Building+with+Python;Exploring+Generative+AI;Learning+%26+Creating+%E2%9C%A8"/>
+
+<br><br>
+
+**CSE (AI & ML) Student**
+*creating, learning & experimenting with AI*
 
 </div>
 
@@ -15,27 +17,29 @@
 
 <div align="center">
 
-## 🍒 About Me
+## 𓂃 ࣪˖ ִֶָ About Me
 
 </div>
 
-🎓 I'm a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**.
+> *A little about what I love building.*
 
-🤖 I'm interested in **AI, Machine Learning, Deep Learning and Generative AI**.
+🎓 Computer Science Engineering student specializing in **AI & ML**
 
-🔎 Currently exploring **RAG, LangChain and Agentic AI**.
+🤍 Interested in **Artificial Intelligence, Deep Learning & Generative AI**
 
-🐍 I mainly work with **Python** and enjoy building practical AI applications.
+🔎 Currently exploring **RAG, LangChain & Agentic AI**
 
-🚀 I like turning ideas into projects and learning by actually building things.
+🐍 Building primarily with **Python**
 
-🌱 **Learning → Building → Experimenting → Improving**
+📖 Learning through projects, experiments and curiosity
+
+˚₊‧ **Learn something. Build something. Make it better.** ‧₊˚
 
 ---
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## ✦ Things I Work With
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,github,fastapi,flask,docker,mongodb,mysql"/>
 
@@ -45,77 +49,19 @@
 
 <div align="center">
 
-## 🍒 Featured Projects
+## 𓍢ִ໋ Projects I've Been Building
 
 </div>
 
-### 🤖 RAG AI Assistant
+<table>
+<tr>
 
-A **Retrieval-Augmented Generation** based AI assistant that allows users to upload PDFs and ask questions based on their content.
+<td width="50%" valign="top">
 
-**Tech:** `Python` · `LangChain` · `FAISS` · `Ollama` · `Streamlit`
+### 𖤐 RAG AI Assistant
 
----
+A document-based AI assistant that lets users upload PDFs and ask questions based on their content.
 
-### 🌙 Low-Light Image Enhancement
+**Built with**
 
-A **deep-learning based computer vision project** focused on enhancing images captured in low-light environments.
-
-**Tech:** `Deep Learning` · `Computer Vision` · `Image Enhancement`
-
----
-
-<div align="center">
-
-## 🧠 Currently Exploring
-
-<img src="https://img.shields.io/badge/Machine%20Learning-B23A48?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-B23A48?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-B23A48?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-B23A48?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-B23A48?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-B23A48?style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=sameerashazmeen&show_icons=true&hide_border=true&title_color=B23A48&icon_color=B23A48&text_color=555555&bg_color=FFFFFF"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sameerashazmeen&hide_border=true&ring=B23A48&fire=B23A48&currStreakLabel=B23A48"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 💻 What I Like Building
-
-🤖 AI Applications
-🧠 Machine Learning Models
-🌙 Computer Vision Projects
-🔎 RAG Applications
-✨ Generative AI Projects
-
-</div>
-
----
-
-<div align="center">
-
-## 🍒 A Little Note
-
-> **Build something. Learn something. Improve something.**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B23A48&height=140&section=footer"/>
-
-</div>
+`Python`
