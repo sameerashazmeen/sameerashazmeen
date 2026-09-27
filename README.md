@@ -47,27 +47,6 @@ A PDF-based AI question-answering assistant that retrieves relevant information 
 
 **Tech:** Python • LangChain • FAISS • Ollama • Streamlit
 
----
-
-### 🌙 Low-Light Image Enhancement
-
-A deep-learning based project focused on improving the visibility and quality of images captured in low-light environments.
-
-**Tech:** Deep Learning • Computer Vision • Image Enhancement
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sameerashazmeen&show_icons=true&hide_border=true&theme=transparent&title_color=6FB98F&icon_color=6FB98F"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sameerashazmeen&hide_border=true&theme=transparent"/>
-
-</div>
 
 ---
 
