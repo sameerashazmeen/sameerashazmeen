@@ -1,12 +1,13 @@
 <div align="center">
 
-# 👋 Hi, I'm Sameera Shazmeen
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7BC8A4&height=200&section=header&text=Sameera%20Shazmeen&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=7BC8A4&center=true&vCenter=true&width=650&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Deep+Learning+Explorer+%F0%9F%A7%A0;RAG+%26+Agentic+AI+Enthusiast+%F0%9F%94%8E" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=6FB98F&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Deep+Learning+Explorer+%F0%9F%A7%A0;RAG+%26+Generative+AI+Enthusiast+%F0%9F%94%8E"/>
 
-🎓 CSE (AI & ML) Student  
-🤖 Building practical AI projects  
-🌱 Learning something new every day
+<p>
+  <b>🎓 CSE (AI & ML) Student</b><br>
+  Building practical AI projects and exploring the world of Generative AI.
+</p>
 
 </div>
 
@@ -14,37 +15,45 @@
 
 ## 🌷 About Me
 
-- 🎓 Computer Science Engineering student specializing in **AI & ML**
-- 🤖 Interested in **Artificial Intelligence, Machine Learning & Deep Learning**
-- 🔎 Exploring **RAG, LangChain & Agentic AI**
-- 🐍 Working mainly with **Python**
-- 🚀 Building practical AI-based projects
-- 💡 Always curious to learn and experiment
+🎓 Computer Science Engineering student specializing in **AI & ML**
+
+🤖 Interested in **Artificial Intelligence, Machine Learning & Deep Learning**
+
+🔎 Exploring **RAG, LangChain, Generative AI & Agentic AI**
+
+🐍 Mainly working with **Python**
+
+🚀 Building practical projects that solve real-world problems
+
+🌱 Learning, experimenting and improving every day
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,github,fastapi,flask,docker,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,github,fastapi,flask,docker,mongodb,mysql"/>
 
-</p>
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🤖 RAG AI Assistant
-PDF-based AI question-answering assistant using:
 
-**Python • LangChain • FAISS • Ollama • Streamlit**
+A PDF-based AI question-answering assistant that retrieves relevant information from documents and generates answers using an LLM.
+
+**Tech:** Python • LangChain • FAISS • Ollama • Streamlit
+
+---
 
 ### 🌙 Low-Light Image Enhancement
-Deep-learning based image enhancement project for improving images captured in low-light conditions.
 
-### 🐦 Bird Sound Classification
-Deep-learning based bird sound classification using **EfficientNet and Mel-spectrogram features**.
+A deep-learning based project focused on improving the visibility and quality of images captured in low-light environments.
+
+**Tech:** Deep Learning • Computer Vision • Image Enhancement
 
 ---
 
@@ -52,30 +61,30 @@ Deep-learning based bird sound classification using **EfficientNet and Mel-spect
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sameerashazmeen&show_icons=true&hide_border=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api?username=sameerashazmeen&show_icons=true&hide_border=true&theme=transparent&title_color=6FB98F&icon_color=6FB98F"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sameerashazmeen&hide_border=true&theme=transparent" />
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sameerashazmeen&hide_border=true&theme=transparent"/>
 
 </div>
 
 ---
 
-## 🐍 My Contributions
+## 🌱 Currently Exploring
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+`Machine Learning` · `Deep Learning` · `RAG` · `LangChain` · `Generative AI` · `Agentic AI`
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+## 💫 A Little More About Me
 
 ```text
-Machine Learning
-Deep Learning
-RAG
-LangChain
-Agentic AI
-Generative AI
+💡 Build → Learn → Experiment → Improve
+
+🤖 AI is not just something I study,
+   it's something I love exploring.
