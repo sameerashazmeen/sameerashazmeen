@@ -2,6 +2,8 @@
 
 # 🎀 Hi, I'm Sameera Shazmeen
 
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280">
+
 ### AI & ML Enthusiast · Python · Generative AI
 
 **Learning · Building · Growing**
@@ -9,20 +11,16 @@
 <br>
 
 <a href="https://www.linkedin.com/in/sameera-shazmeen-1aa082294/">
-<img src="https://img.shields.io/badge/LinkedIn-8B1E2D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-8B1E2D?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://leetcode.com/u/sameerashazmeen/">
-<img src="https://img.shields.io/badge/LeetCode-B83245?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-</a>
-
-<a href="https://github.com/sameerashazmeen">
-<img src="https://img.shields.io/badge/GitHub-5C0712?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/LeetCode-B83245?style=for-the-badge&logo=leetcode&logoColor=white">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=sameerashazmeen&color=8B1E2D&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=sameerashazmeen&color=8B1E2D&style=for-the-badge&label=PROFILE+VIEWS">
 
 </div>
 
@@ -32,7 +30,7 @@
 
 Hi, I'm **Sameera Shazmeen**, a Computer Science student specializing in **Artificial Intelligence & Machine Learning**.
 
-I enjoy building practical AI applications and exploring how Machine Learning, Deep Learning, and Generative AI can be used to solve real-world problems.
+I enjoy building practical AI applications and exploring Machine Learning, Deep Learning, and Generative AI.
 
 - 🎀 AI & Machine Learning enthusiast
 - 🧠 Interested in Deep Learning & Generative AI
@@ -40,7 +38,6 @@ I enjoy building practical AI applications and exploring how Machine Learning, D
 - 🐍 Mainly working with Python
 - ✦ Building AI-powered applications
 - 📚 Currently preparing for GATE CSE
-- 🌷 Always learning, experimenting & improving
 
 ---
 
@@ -48,28 +45,25 @@ I enjoy building practical AI applications and exploring how Machine Learning, D
 
 `Python` · `Machine Learning` · `Deep Learning` · `DSA`
 
-`Natural Language Processing` · `Generative AI` · `LangChain`
+`Generative AI` · `LangChain` · `RAG` · `LLMs`
 
-`Vector Databases` · `RAG Pipelines` · `LLMs`
+`Vector Databases` · `NLP` · `SQL` · `REST APIs`
 
-`Prompt Engineering` · `AI Agents` · `SQL`
-
-`REST APIs` · `Git & GitHub` · `Streamlit`
+`Git & GitHub` · `Streamlit`
 
 ---
 
 ## 🎀 What I'm Exploring
 
-✦ Retrieval-Augmented Generation (RAG)  
-✦ Large Language Models (LLMs)  
-✦ Agentic AI & AI Agents  
+✦ Retrieval-Augmented Generation  
+✦ Large Language Models  
+✦ Agentic AI  
 ✦ Generative AI Applications  
-✦ Deep Learning & Neural Networks  
+✦ Deep Learning  
 ✦ Natural Language Processing  
-✦ Vector Search & Embeddings  
-✦ Explainable AI  
 ✦ Computer Vision  
-✦ Practical AI Systems
+✦ Vector Search & Embeddings  
+✦ Explainable AI
 
 ---
 
@@ -81,7 +75,7 @@ A **Retrieval-Augmented Generation (RAG)** based AI assistant built using **Pyth
 
 It retrieves relevant information from documents using a **vector database** and uses an **LLM** to generate answers based on the retrieved context.
 
-### ✦ Tech Stack
+**Tech Stack**
 
 `Python` `LangChain` `FAISS` `Ollama` `Streamlit`
 
@@ -91,47 +85,9 @@ It retrieves relevant information from documents using a **vector database** and
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sameerashazmeen&show_icons=true&hide_border=true&bg_color=fff7f8&title_color=8b1e2d&icon_color=b83245&text_color=5c0712" height="170" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=sameerashazmeen&show_icons=true&hide_border=true&bg_color=fff7f8&title_color=8b1e2d&icon_color=b83245&text_color=5c0712" height="170">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerashazmeen&layout=compact&hide_border=true&bg_color=fff7f8&title_color=8b1e2d&text_color=5c0712" height="170" alt="Top Languages">
-
-</div>
-
----
-
-## 🎀 Contribution Graph
-
-<div align="center">
-
-<img
-src="./profile-3d-contrib/profile-night-rainbow.svg"
-width="95%"
-alt="Contribution Graph">
-
-</div>
-
----
-
-## 🎀 Contribution Snake
-
-<div align="center">
-
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/sameerashazmeen/sameerashazmeen/output/github-snake-dark.svg">
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/sameerashazmeen/sameerashazmeen/output/github-snake.svg">
-
-<img
-src="https://raw.githubusercontent.com/sameerashazmeen/sameerashazmeen/output/github-snake.svg"
-width="95%"
-alt="Contribution Snake">
-
-</picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerashazmeen&layout=compact&hide_border=true&bg_color=fff7f8&title_color=8b1e2d&text_color=5c0712" height="170">
 
 </div>
 
@@ -165,36 +121,12 @@ alt="LeetCode Stats">
 | **Featured Project** | RAG AI Assistant |
 | **Tools** | LangChain · FAISS · Ollama · Streamlit |
 | **Improving** | DSA · Problem Solving · AI Development |
-| **Goal** | Keep learning · Building · Growing |
-
----
-
-## 🎀 Currently Learning
-
-🎀 Artificial Intelligence  
-🎀 Machine Learning  
-🎀 Deep Learning  
-🎀 Generative AI  
-🎀 Retrieval-Augmented Generation  
-🎀 Large Language Models  
-🎀 Agentic AI  
-🎀 Natural Language Processing
-
----
-
-## 🎀 Beyond the Code
-
-🎀 Learning something new every day  
-🎀 Experimenting with AI ideas  
-🎀 Building projects one step at a time  
-🎀 Solving problems with Python  
-🎀 Growing quietly but consistently
 
 ---
 
 <div align="center">
 
-🎀 ─────────────── ✦ ─────────────── 🎀
+🎀 ───────── ✦ ───────── 🎀
 
 <br><br>
 
@@ -202,6 +134,6 @@ alt="LeetCode Stats">
 
 <br><br>
 
-🎀 ─────────────── ✦ ─────────────── 🎀
+🎀 ───────── ✦ ───────── 🎀
 
 </div>
