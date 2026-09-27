@@ -1,8 +1,6 @@
 <div align="center">
 
-# 🎀 Hi, I'm Sameera Shazmeen
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280">
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=42&duration=3000&pause=1000&color=8B1E2D&center=true&vCenter=true&width=700&lines=Sameera+Shazmeen" alt="Sameera Shazmeen">
 
 ### AI & ML Enthusiast · Python · Generative AI
 
@@ -11,16 +9,16 @@
 <br>
 
 <a href="https://www.linkedin.com/in/sameera-shazmeen-1aa082294/">
-<img src="https://img.shields.io/badge/LinkedIn-8B1E2D?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-8B1E2D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://leetcode.com/u/sameerashazmeen/">
-<img src="https://img.shields.io/badge/LeetCode-B83245?style=for-the-badge&logo=leetcode&logoColor=white">
+<img src="https://img.shields.io/badge/LeetCode-B83245?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=sameerashazmeen&color=8B1E2D&style=for-the-badge&label=PROFILE+VIEWS">
+<img src="https://komarev.com/ghpvc/?username=sameerashazmeen&color=8B1E2D&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
 
 </div>
 
@@ -57,13 +55,14 @@ I enjoy building practical AI applications and exploring Machine Learning, Deep 
 
 ✦ Retrieval-Augmented Generation  
 ✦ Large Language Models  
-✦ Agentic AI  
+✦ Agentic AI & AI Agents  
 ✦ Generative AI Applications  
-✦ Deep Learning  
+✦ Deep Learning & Neural Networks  
 ✦ Natural Language Processing  
 ✦ Computer Vision  
 ✦ Vector Search & Embeddings  
-✦ Explainable AI
+✦ Explainable AI  
+✦ Practical AI Systems
 
 ---
 
@@ -85,9 +84,9 @@ It retrieves relevant information from documents using a **vector database** and
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sameerashazmeen&show_icons=true&hide_border=true&bg_color=fff7f8&title_color=8b1e2d&icon_color=b83245&text_color=5c0712" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=sameerashazmeen&show_icons=true&hide_border=true&bg_color=fff7f8&title_color=8b1e2d&icon_color=b83245&text_color=5c0712" height="170" alt="GitHub Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerashazmeen&layout=compact&hide_border=true&bg_color=fff7f8&title_color=8b1e2d&text_color=5c0712" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerashazmeen&layout=compact&hide_border=true&bg_color=fff7f8&title_color=8b1e2d&text_color=5c0712" height="170" alt="Top Languages">
 
 </div>
 
