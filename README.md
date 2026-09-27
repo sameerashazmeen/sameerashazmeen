@@ -78,22 +78,6 @@ It retrieves relevant information from documents using a **vector database** and
 
 `Python` `LangChain` `FAISS` `Ollama` `Streamlit`
 
----
-
-## 🎀 LeetCode
-
-<div align="center">
-
-<a href="https://leetcode.com/u/sameerashazmeen/">
-
-<img
-src="https://leetcard.jacoblin.cool/sameerashazmeen?theme=light&font=Karma&ext=contest"
-width="500"
-alt="LeetCode Stats">
-
-</a>
-
-</div>
 
 ---
 
