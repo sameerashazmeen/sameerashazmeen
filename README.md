@@ -1,28 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C0712,50:8B1E2D,100:B83245&height=210&section=header&text=Sameera%20Shazmeen&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Enthusiast%20%7C%20Python%20%7C%20Generative%20AI&descAlignY=58&descSize=17&descColor=FFE5E8" width="100%"/>
+# 🎀 Hi, I'm Sameera Shazmeen
+
+### AI & ML Enthusiast · Python · Generative AI
+
+**Learning · Building · Growing**
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&pause=1000&color=8B1E2D&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sameera+Shazmeen+%E2%8B%86;AI+%26+ML+Enthusiast;Exploring+RAG+%26+Generative+AI;Learning+%C2%B7+Building+%C2%B7+Growing" alt="Typing Animation"/>
-
-<br><br>
-
 <a href="https://www.linkedin.com/in/sameera-shazmeen-1aa082294/">
-<img src="https://img.shields.io/badge/LinkedIn-8B1E2D?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-8B1E2D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://leetcode.com/u/sameera_shazmeen/">
-<img src="https://img.shields.io/badge/LeetCode-B83245?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-B83245?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
 </a>
 
 <a href="https://github.com/sameerashazmeen">
-<img src="https://img.shields.io/badge/GitHub-5C0712?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-5C0712?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=sameerashazmeen&color=8B1E2D&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=sameerashazmeen&color=8B1E2D&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
 
 </div>
 
@@ -69,7 +69,7 @@ I enjoy building practical AI applications and exploring how machine learning, d
 ✦ Vector Search & Embeddings  
 ✦ Explainable AI  
 ✦ Computer Vision  
-✦ Building practical AI systems
+✦ Practical AI Systems
 
 ---
 
@@ -84,6 +84,85 @@ It retrieves relevant information from documents using a **vector database** and
 ### ✦ Tech Stack
 
 `Python` `LangChain` `FAISS` `Ollama` `Streamlit`
+
+---
+
+## 🎀 GitHub Stats
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=sameerashazmeen&show_icons=true&hide_border=true&bg_color=fff7f8&title_color=8b1e2d&icon_color=b83245&text_color=5c0712"
+height="170"
+alt="GitHub Stats">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerashazmeen&layout=compact&hide_border=true&bg_color=fff7f8&title_color=8b1e2d&text_color=5c0712"
+height="170"
+alt="Top Languages">
+
+</div>
+
+---
+
+## 🎀 Contribution Graph
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=sameerashazmeen&bg_color=fff7f8&color=8b1e2d&line=b83245&point=5c0712&area=true&hide_border=true"
+width="95%"
+alt="Sameera's GitHub Contribution Graph">
+
+</div>
+
+---
+
+## 🎀 Contribution Snake
+
+<div align="center">
+
+### 🐍 My GitHub Contributions
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/sameerashazmeen/sameerashazmeen/output/github-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/sameerashazmeen/sameerashazmeen/output/github-snake.svg">
+
+<img
+src="https://raw.githubusercontent.com/sameerashazmeen/sameerashazmeen/output/github-snake.svg"
+alt="GitHub Contribution Snake"
+width="95%">
+
+</picture>
+
+<br>
+
+<i>My contributions, one day at a time 🎀</i>
+
+</div>
+
+---
+
+## 🎀 LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/sameera_shazmeen/">
+
+<img
+src="https://leetcard.jacoblin.cool/sameera_shazmeen?theme=light&font=Karma&ext=contest"
+width="500"
+alt="Sameera's LeetCode Stats">
+
+</a>
+
+</div>
 
 ---
 
@@ -111,57 +190,7 @@ It retrieves relevant information from documents using a **vector database** and
 🎀 Retrieval-Augmented Generation  
 🎀 Large Language Models  
 🎀 Agentic AI  
-🎀 Natural Language Processing
-
----
-
-## 🎀 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sameerashazmeen&show_icons=true&hide_border=true&bg_color=fff7f8&title_color=8b1e2d&icon_color=b83245&text_color=5c0712&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerashazmeen&layout=compact&hide_border=true&bg_color=fff7f8&title_color=8b1e2d&text_color=5c0712" height="170"/>
-
-</div>
-
----
-
-## 🎀 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sameerashazmeen&bg_color=fff7f8&color=8b1e2d&line=b83245&point=5c0712&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## 🎀 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sameerashazmeen/sameerashazmeen/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sameerashazmeen/sameerashazmeen/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/sameerashazmeen/sameerashazmeen/output/github-snake.svg">
-</picture>
-
-</div>
-
----
-
-## 🎀 LeetCode
-
-<div align="center">
-
-<a href="https://leetcode.com/u/sameera_shazmeen/">
-
-<img src="https://leetcard.jacoblin.cool/sameera_shazmeen?theme=light&font=Karma&ext=contest" width="500"/>
-
-</a>
-
-</div>
+🎀 Natural Language Processing  
 
 ---
 
@@ -171,7 +200,7 @@ It retrieves relevant information from documents using a **vector database** and
 🎀 Experimenting with AI ideas  
 🎀 Building projects one step at a time  
 🎀 Solving problems with Python  
-🎀 Growing quietly but consistently
+🎀 Growing quietly but consistently  
 
 ---
 
@@ -179,12 +208,12 @@ It retrieves relevant information from documents using a **vector database** and
 
 🎀 ─────────────── ✦ ─────────────── 🎀
 
-<br>
+<br><br>
 
 <i>learning quietly · building consistently · growing every day</i>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C0712,50:8B1E2D,100:B83245&height=100&section=footer"/>
+🎀 ─────────────── ✦ ─────────────── 🎀
 
 </div>
