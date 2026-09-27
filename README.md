@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-8B1E2D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="https://leetcode.com/u/sameera_shazmeen/">
+<a href="https://leetcode.com/u/sameerashazmeen/">
 <img src="https://img.shields.io/badge/LeetCode-B83245?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
 </a>
 
@@ -91,15 +91,9 @@ It retrieves relevant information from documents using a **vector database** and
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=sameerashazmeen&show_icons=true&hide_border=true&bg_color=fff7f8&title_color=8b1e2d&icon_color=b83245&text_color=5c0712"
-height="170"
-alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=sameerashazmeen&show_icons=true&hide_border=true&bg_color=fff7f8&title_color=8b1e2d&icon_color=b83245&text_color=5c0712" height="170" alt="GitHub Stats">
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerashazmeen&layout=compact&hide_border=true&bg_color=fff7f8&title_color=8b1e2d&text_color=5c0712"
-height="170"
-alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerashazmeen&layout=compact&hide_border=true&bg_color=fff7f8&title_color=8b1e2d&text_color=5c0712" height="170" alt="Top Languages">
 
 </div>
 
@@ -110,7 +104,7 @@ alt="Top Languages">
 <div align="center">
 
 <img
-src="https://raw.githubusercontent.com/sameerashazmeen/sameerashazmeen/main/profile-3d-contrib/profile-night-rainbow.svg"
+src="./profile-3d-contrib/profile-night-rainbow.svg"
 width="95%"
 alt="Contribution Graph">
 
