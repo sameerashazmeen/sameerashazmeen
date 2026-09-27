@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=42&duration=3000&pause=1000&color=8B1E2D&center=true&vCenter=true&width=700&lines=Sameera+Shazmeen" alt="Sameera Shazmeen">
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=38&duration=3000&pause=1000&color=8B1E2D&center=true&vCenter=true&width=900&lines=Sameera+Shazmeen" alt="Sameera Shazmeen">
+
+<br>
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Animated">
 
 ### AI & ML Enthusiast · Python · Generative AI
 
@@ -15,10 +19,6 @@
 <a href="https://leetcode.com/u/sameerashazmeen/">
 <img src="https://img.shields.io/badge/LeetCode-B83245?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=sameerashazmeen&color=8B1E2D&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
 
 </div>
 
@@ -77,18 +77,6 @@ It retrieves relevant information from documents using a **vector database** and
 **Tech Stack**
 
 `Python` `LangChain` `FAISS` `Ollama` `Streamlit`
-
----
-
-## 🎀 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sameerashazmeen&show_icons=true&hide_border=true&bg_color=fff7f8&title_color=8b1e2d&icon_color=b83245&text_color=5c0712" height="170" alt="GitHub Stats">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerashazmeen&layout=compact&hide_border=true&bg_color=fff7f8&title_color=8b1e2d&text_color=5c0712" height="170" alt="Top Languages">
-
-</div>
 
 ---
 
