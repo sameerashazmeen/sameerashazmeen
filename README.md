@@ -32,7 +32,7 @@
 
 Hi, I'm **Sameera Shazmeen**, a Computer Science student specializing in **Artificial Intelligence & Machine Learning**.
 
-I enjoy building practical AI applications and exploring how machine learning, deep learning, and generative AI can be used to solve real-world problems.
+I enjoy building practical AI applications and exploring how Machine Learning, Deep Learning, and Generative AI can be used to solve real-world problems.
 
 - 🎀 AI & Machine Learning enthusiast
 - 🧠 Interested in Deep Learning & Generative AI
@@ -110,9 +110,9 @@ alt="Top Languages">
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=sameerashazmeen&bg_color=fff7f8&color=8b1e2d&line=b83245&point=5c0712&area=true&hide_border=true"
+src="https://raw.githubusercontent.com/sameerashazmeen/sameerashazmeen/main/profile-3d-contrib/profile-night-rainbow.svg"
 width="95%"
-alt="Sameera's GitHub Contribution Graph">
+alt="Contribution Graph">
 
 </div>
 
@@ -121,8 +121,6 @@ alt="Sameera's GitHub Contribution Graph">
 ## 🎀 Contribution Snake
 
 <div align="center">
-
-### 🐍 My GitHub Contributions
 
 <picture>
 
@@ -136,14 +134,10 @@ srcset="https://raw.githubusercontent.com/sameerashazmeen/sameerashazmeen/output
 
 <img
 src="https://raw.githubusercontent.com/sameerashazmeen/sameerashazmeen/output/github-snake.svg"
-alt="GitHub Contribution Snake"
-width="95%">
+width="95%"
+alt="Contribution Snake">
 
 </picture>
-
-<br>
-
-<i>My contributions, one day at a time 🎀</i>
 
 </div>
 
@@ -153,12 +147,12 @@ width="95%">
 
 <div align="center">
 
-<a href="https://leetcode.com/u/sameera_shazmeen/">
+<a href="https://leetcode.com/u/sameerashazmeen/">
 
 <img
-src="https://leetcard.jacoblin.cool/sameera_shazmeen?theme=light&font=Karma&ext=contest"
+src="https://leetcard.jacoblin.cool/sameerashazmeen?theme=light&font=Karma&ext=contest"
 width="500"
-alt="Sameera's LeetCode Stats">
+alt="LeetCode Stats">
 
 </a>
 
@@ -177,7 +171,7 @@ alt="Sameera's LeetCode Stats">
 | **Featured Project** | RAG AI Assistant |
 | **Tools** | LangChain · FAISS · Ollama · Streamlit |
 | **Improving** | DSA · Problem Solving · AI Development |
-| **Goal** | Keep learning, building & growing |
+| **Goal** | Keep learning · Building · Growing |
 
 ---
 
@@ -190,7 +184,7 @@ alt="Sameera's LeetCode Stats">
 🎀 Retrieval-Augmented Generation  
 🎀 Large Language Models  
 🎀 Agentic AI  
-🎀 Natural Language Processing  
+🎀 Natural Language Processing
 
 ---
 
@@ -200,7 +194,7 @@ alt="Sameera's LeetCode Stats">
 🎀 Experimenting with AI ideas  
 🎀 Building projects one step at a time  
 🎀 Solving problems with Python  
-🎀 Growing quietly but consistently  
+🎀 Growing quietly but consistently
 
 ---
 
